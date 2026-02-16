@@ -25,7 +25,7 @@
 
   <br>
 
-![Game Demo](demo.gif)
+![Game Demo](demo_optimized_v2.gif)
 
 </div>
 
